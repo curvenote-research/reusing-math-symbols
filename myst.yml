@@ -9,5 +9,12 @@ project:
   subtitle: Using the extends functionality of MyST configuration to reuse macros and other information
   tags:
     - MyST Example
+  keywords:
+    - MyST Markdown
+    - Structured Data
+    - Reuse
+    - LaTeX
+    - Math Macros
+    - FAIR data principles
 site:
   template: article-theme

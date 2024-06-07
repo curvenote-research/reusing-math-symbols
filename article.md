@@ -4,7 +4,11 @@ We present an example to demonstrates inheritance of math macros and other proje
 
 ## Example
 
+In the example below we are writing content that references math macros that are from a shared configuration, which could be part of a shared or curated repository.
+
 > The residual is the predicted data for the model, $\dpred{m}$, minus the observed data, $\dobs$. You can also calculate the predicted data for the reference model $\dpred{\mref}$.
+
+The macros are quite commonly used in Geophysics, and could be shared between one or more teams.
 
 ## How it works
 
@@ -19,5 +23,5 @@ We present an example to demonstrates inheritance of math macros and other proje
 
 ## Acknowledgements
 
-The work was completed by Franklin and Rowan in MyST and funded by John's Hopkins Open Source Program Office Grant awarded to Alan Lujan.
+The work was completed by Franklin and Rowan in MyST in June 2024. Funding was provided by John's Hopkins Open Source Program Office Grant awarded to Alan Lujan.
 Chris Carroll provided many LaTeX macros and examples for inspiration.
