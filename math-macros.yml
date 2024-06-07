@@ -1,0 +1,12 @@
+version: 1
+project:
+  math:
+    '\dobs':
+      title: Observed Data
+      macro: '\mathbf{d}_\text{obs}'
+    '\dpred':
+      title: Predicted Data
+      macro: '\mathbf{d}_\text{pred}\left( #1 \right)'
+    '\mref':
+      title: Reference Model
+      macro: '\mathbf{m}_\text{ref}'
