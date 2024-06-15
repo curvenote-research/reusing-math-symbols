@@ -7,6 +7,7 @@ project:
   id: 90f4d8e3-c62b-4b43-b08e-5fdbe876fbd7
   title: Reusing Math Symbols
   subtitle: Using the extends functionality of MyST configuration to reuse macros and other information
+  description: Example of sharing math macros and other project information from a separate file between multiple projects.
   tags:
     - MyST Example
   keywords:
@@ -16,5 +17,8 @@ project:
     - LaTeX
     - Math Macros
     - FAIR data principles
+  banner: banner.png
+  thumbnail: thumbnail.png
+  license: CC-BY-4.0
 site:
   template: article-theme

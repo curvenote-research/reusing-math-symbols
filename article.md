@@ -8,7 +8,7 @@ In the example below we are writing content that references math macros that are
 
 > The residual is the predicted data for the model, $\dpred{m}$, minus the observed data, $\dobs$. You can also calculate the predicted data for the reference model $\dpred{\mref}$.
 
-The macros are quite commonly used in Geophysics, and could be shared between one or more teams.
+The macros are quite commonly used in geophysics, and could be shared between one or more teams.
 
 ## How it works
 
