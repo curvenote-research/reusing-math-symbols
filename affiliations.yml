@@ -1,0 +1,10 @@
+version: 1
+project:
+  affiliations:
+    - id: curvenote
+      name: Curvenote Inc.
+      ror: https://ror.org/02mz0e468
+      url: https://curvenote.com
+    - id: ebp
+      name: Executable Books
+      url: https://executablebooks.org

@@ -8,7 +8,7 @@ In the example below we are writing content that references math macros that are
 
 > The residual is the predicted data for the model, $\dpred{m}$, minus the observed data, $\dobs$. You can also calculate the predicted data for the reference model $\dpred{\mref}$.
 
-The macros are quite commonly used in geophysics, and could be shared between one or more teams.
+The macros are quite commonly used in geophysics, and could be shared between one or more teams. The configuration takes a URL in addition to a local file.
 
 ## How it works
 
@@ -23,5 +23,5 @@ The macros are quite commonly used in geophysics, and could be shared between on
 
 ## Acknowledgements
 
-The work was completed by Franklin and Rowan in MyST in June 2024. Funding was provided by John's Hopkins Open Source Program Office Grant awarded to Alan Lujan.
+The work was completed by Franklin and Rowan in MyST in June 2024, created in [#1215](https://github.com/executablebooks/mystmd/pull/1215). Funding was provided by John's Hopkins Open Source Program Office Grant awarded to Alan Lujan.
 Chris Carroll provided many LaTeX macros and examples for inspiration.

@@ -1,0 +1,75 @@
+<doi_batch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="5.3.1"
+  xmlns="http://www.crossref.org/schema/5.3.1" xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+  xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:ai="http://www.crossref.org/AccessIndicators.xsd"
+  xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 http://www.crossref.org/schemas/crossref5.3.1.xsd">
+  <head>
+    <doi_batch_id>57e3035c-6416-4437-aefa-4334a0a5c84f</doi_batch_id>
+    <timestamp>1719444817853</timestamp>
+    <depositor>
+      <depositor_name>Curvenote</depositor_name>
+      <email_address>doi@curvenote.com</email_address>
+    </depositor>
+    <registrant>Crossref</registrant>
+  </head>
+  <body>
+    <posted_content>
+      <contributors>
+        <person_name sequence="first" contributor_role="author">
+          <given_name>Rowan</given_name>
+          <surname>Cockett</surname>
+          <affiliations>
+            <institution>
+              <institution_name>Curvenote Inc.</institution_name>
+              <institution_id type="ror">https://ror.org/02mz0e468</institution_id>
+            </institution>
+            <institution>
+              <institution_name>Executable Books</institution_name>
+            </institution>
+          </affiliations>
+          <ORCID>https://orcid.org/0000-0002-7859-8394</ORCID>
+          <alt-name>
+            <string-name>Rowan Cockett</string-name>
+          </alt-name>
+        </person_name>
+        <person_name sequence="additional" contributor_role="author">
+          <given_name>Franklin</given_name>
+          <surname>Koch</surname>
+          <affiliations>
+            <institution>
+              <institution_name>Curvenote Inc.</institution_name>
+              <institution_id type="ror">https://ror.org/02mz0e468</institution_id>
+            </institution>
+            <institution>
+              <institution_name>Executable Books</institution_name>
+            </institution>
+          </affiliations>
+          <ORCID>https://orcid.org/0000-0002-6393-7058</ORCID>
+          <alt-name>
+            <string-name>Franklin Koch</string-name>
+          </alt-name>
+        </person_name>
+      </contributors>
+      <titles>
+        <title>Reusing Math Symbols</title>
+        <subtitle>Using the extends functionality of MyST configuration to reuse macros and other information</subtitle>
+      </titles>
+      <posted_date media_type="online">
+        <month>06</month>
+        <day>15</day>
+        <year>2024</year>
+      </posted_date>
+      <jats:abstract>
+        <jats:p>We present an example to demonstrates inheritance of math macros and other project information from a separate file. This functionality is presented through MyST (<jats:ext-link ext-link-type="uri" xlink:href="https://mystmd.org">https://mystmd.org</jats:ext-link>) and provides the ability to share configuration between projects. This can be used for authors, affiliations site config, etc. In this example, we are interested in reuse of math macros, which in many domains define the way that you can refer to equations and concepts in the literature.</jats:p>
+      </jats:abstract>
+      <ai:program name="AccessIndicators">
+        <ai:free_to_read></ai:free_to_read>
+        <ai:license_ref applies_to="vor">https://creativecommons.org/licenses/by/4.0/</ai:license_ref>
+      </ai:program>
+      <doi_data>
+        <doi>10.62329/YERW1834</doi>
+        <resource content_version="vor">https://doi.curvenote.com/10.62329/YERW1834</resource>
+      </doi_data>
+    </posted_content>
+  </body>
+</doi_batch>

@@ -2,17 +2,19 @@ version: 1
 project:
   license: CC-BY-4.0
   authors:
-    - name: Rowan Cockett
+    - id: franklin
+      name: Franklin Koch
+      orcid: 0000-0002-6393-7058
+      github: fwkoch
+      affiliations:
+        - curvenote
+        - ebp
+    - id: rowan
+      name: Rowan Cockett
       orcid: 0000-0002-7859-8394
       email: rowan@curvenote.com
       github: rowanc1
       twitter: rowancockett
       affiliations:
-        - Curvenote Inc.
-        - Executable Books
-    - name: Franklin Koch
-      orcid: 0000-0002-6393-7058
-      github: fwkoch
-      affiliations:
-        - Curvenote Inc.
-        - Executable Books
+        - curvenote
+        - ebp

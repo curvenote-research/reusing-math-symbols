@@ -2,11 +2,17 @@
 version: 1
 extends:
   - math-macros.yml
+  - affiliations.yml
   - authors.yml
 project:
   id: 90f4d8e3-c62b-4b43-b08e-5fdbe876fbd7
   title: Reusing Math Symbols
   subtitle: Using the extends functionality of MyST configuration to reuse macros and other information
+  doi: 10.62329/YERW1834
+  date: 2024-06-15
+  authors:
+    - id: rowan
+    - id: franklin
   description: Example of sharing math macros and other project information from a separate file between multiple projects.
   tags:
     - MyST Example
@@ -20,5 +26,28 @@ project:
   banner: banner.png
   thumbnail: thumbnail.png
   license: CC-BY-4.0
+  funding:
+    name: Free And Open Source Software Project Fund
+    sources:
+      - institution: Johns Hopkins University
+        department: Open Source Programs Office
+        ror: https://ror.org/00za53h95
+    investigators:
+      - name: Alan Lujan
+        github: alanlujan91
+        email: alanlujan91@gmail.com
+        orcid: 0000-0002-5289-7054
+        affiliation:
+          institution: Johns Hopkins University
+          department: Department of Economics
+          ror: https://ror.org/00za53h95
+      - name: Christopher Carroll
+        orcid: 0000-0003-3732-9312
+        affiliation:
+          institution: Johns Hopkins University
+          department: Department of Economics
+          ror: https://ror.org/00za53h95
+  open_access: true
+  github: https://github.com/curvenote-research/reusing-math-symbols
 site:
   template: article-theme
